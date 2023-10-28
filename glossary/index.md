@@ -176,7 +176,7 @@
 </details>
 
 
-## <span style="color: #c51162;">TODO: (в планах)</span>
+## `(в планах)`:
 
 - Термобар'єр
 - Силіконовий носок (Heated Block Silicone Sock)
