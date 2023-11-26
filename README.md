@@ -6,7 +6,8 @@
 
 ## Зміст
 
-- [Голосарій (список термінів)](glossary/index.md)
-- [Користувацьий G-код](customGcode/index.md) `(в планах)`
+- [Глосарій (список термінів)](glossary/index.md)
+- [Інструменти та розхідники](instruments/index.md)
+- [Користувацький G-код](customGcode/index.md) `(в планах)`
 - [Типи філаменту](filaments/index.md) `(в планах)`
 - [Як покращити адгезію (прилипання)](adhesion/index.md)
