@@ -11,3 +11,5 @@
 - [Користувацький G-код](customGcode/index.md) `(в планах)`
 - [Типи філаменту](filaments/index.md) `(в планах)`
 - [Як покращити адгезію (прилипання)](adhesion/index.md)
+- Міні-гайди:
+  - [Як друкувати отвори](guides/holes/index.md)
