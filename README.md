@@ -13,3 +13,4 @@
 - [Як покращити адгезію (прилипання)](adhesion/index.md)
 - Міні-гайди:
   - [Як друкувати отвори](guides/holes/index.md)
+  - [Порядок калібровок принтера](guides/calibration/index.md)
